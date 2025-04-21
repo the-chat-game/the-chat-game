@@ -1,15 +1,15 @@
-[submodule "api"]
-	path = api
-	url = https://github.com/the-chat-game/api
-[submodule "app"]
-	path = app
-	url = https://github.com/the-chat-game/app
-[submodule "internal"]
-	path = internal
-	url = https://github.com/the-chat-game/internal
 [submodule ".github"]
 	path = .github
 	url = https://github.com/the-chat-game/.github
 [submodule ".github-private"]
 	path = .github-private
 	url = https://github.com/the-chat-game/.github-private
+[submodule "api"]
+	path = api
+	url = https://github.com/the-chat-game/api
+[submodule "app"]
+	path = app
+	url = https://github.com/the-chat-game/app
+[submodule "private"]
+	path = private
+	url = https://github.com/the-chat-game/private
