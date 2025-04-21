@@ -7,3 +7,9 @@
 [submodule "internal"]
 	path = internal
 	url = https://github.com/the-chat-game/internal
+[submodule ".github"]
+	path = .github
+	url = https://github.com/the-chat-game/.github
+[submodule ".github-private"]
+	path = .github-private
+	url = https://github.com/the-chat-game/.github-private
