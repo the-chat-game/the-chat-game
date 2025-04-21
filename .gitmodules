@@ -1,9 +1,9 @@
-[submodule "app"]
-	path = app
-	url = https://github.com/the-chat-game/app
 [submodule "api"]
 	path = api
 	url = https://github.com/the-chat-game/api
+[submodule "app"]
+	path = app
+	url = https://github.com/the-chat-game/app
 [submodule "internal"]
 	path = internal
 	url = https://github.com/the-chat-game/internal
