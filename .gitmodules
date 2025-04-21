@@ -16,3 +16,6 @@
 [submodule "private"]
 	path = private
 	url = https://github.com/the-chat-game/private
+[submodule "database"]
+	path = db
+	url = https://github.com/the-chat-game/db
