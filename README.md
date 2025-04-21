@@ -40,8 +40,3 @@ The project follows a microservices architecture with three main components:
    - User interface and interactions
    - Local state management
    - Real-time updates
-
-3. **Internal Packages** (`/internal`)
-   - Shared libraries and utilities
-   - Common data models
-   - Cross-cutting concerns
