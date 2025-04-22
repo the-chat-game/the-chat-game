@@ -4,18 +4,18 @@
 [submodule ".github-private"]
 	path = .github-private
 	url = https://github.com/the-chat-game/.github-private
+[submodule "img"]
+	path = img
+	url = https://github.com/isel-remote-lab/img
 [submodule "api"]
 	path = api
 	url = https://github.com/the-chat-game/api
 [submodule "db"]
 	path = db
 	url = https://github.com/the-chat-game/db
-[submodule "app"]
-	path = app
-	url = https://github.com/the-chat-game/app
-[submodule "img"]
-	path = img
-	url = https://github.com/isel-remote-lab/img
 [submodule "docker"]
 	path = docker
 	url = https://github.com/isel-remote-lab/docker
+[submodule "app"]
+	path = app
+	url = https://github.com/the-chat-game/app
