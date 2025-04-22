@@ -13,3 +13,9 @@
 [submodule "app"]
 	path = app
 	url = https://github.com/the-chat-game/app
+[submodule "img"]
+	path = img
+	url = https://github.com/isel-remote-lab/img
+[submodule "docker"]
+	path = docker
+	url = https://github.com/isel-remote-lab/docker
